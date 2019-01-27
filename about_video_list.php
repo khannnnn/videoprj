@@ -1,5 +1,5 @@
 <?php
-$list_id = 1;
+$list_id = 6;
 
 $url ='http://localhost/video/about_list.php?list='.$list_id;
 $ch = curl_init();

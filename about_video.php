@@ -1,5 +1,5 @@
 <?php
-$id = 5;
+$id = 29;
 
 $url ='http://localhost/video/about.php?id='.$id;
 $ch = curl_init();
